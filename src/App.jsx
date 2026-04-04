@@ -167,7 +167,7 @@ function App() {
             <div className="contact">
               <div className="contact-details">
                 <div className="contact-item"><i className="fas fa-envelope"></i> maedenpentoque97@gmail.com</div>
-                <div className="contact-item"><i className="fas fa-phone-alt"></i> 09123456789</div>
+                <div className="contact-item"><i className="fas fa-phone-alt"></i> 09672363873</div>
                 <div className="contact-item"><i className="fab fa-github"></i> github.com/mae123-456</div>
               </div>
               <div className="social-links">
